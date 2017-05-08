@@ -1,2 +1,7 @@
 # scifbr_unalm
-Fiedlbook y R : Herramientas para la Investigación Cientifica en Agricultura
+# R y Fieldbook : Herramientas para la Investigación Cientifica en Agricultura
+
+Este curso se llevara acabo en la Universidad Nacional Agraria, La Molina (UNALM) con el fin de fortalezer las actividades de investigacion en la Facultad de Agronomia.
+
+
+
