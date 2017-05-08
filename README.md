@@ -7,8 +7,10 @@ Curso que se llevará acabo en la Universidad Nacional Agraria, La Molina (UNALM
 
 ## Requisitos para el curso
 
-- Lenguaje R: https://cran.r-project.org/
-- Rstudio: 
+- Instalador de Software R ver. 3.3.1
+- Instalador Rstudio ver. 1.0.143
+
+Link de descarga de los instaladores : https://drive.google.com/drive/u/0/folders/0BzjuiCv-MHktVDZNaS11aWh4UUU
 
 
 ## Material del Curso
