@@ -16,7 +16,7 @@ Link de descarga de los instaladores : https://drive.google.com/drive/u/0/folder
 ## Material del Curso
 
 - Manual de la Plataforma Fieldbook: http://www.quipo.org/fieldbook.html
-- Diapositivas del curso: https://www.rstudio.com/products/rstudio/download2/
+- Diapositivas del curso: 
 
 
 
