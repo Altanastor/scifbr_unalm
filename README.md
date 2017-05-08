@@ -2,7 +2,7 @@
 
 [![portada_curso2.png](https://s17.postimg.org/9sqyvezsf/portada_curso2.png)](https://postimg.org/image/ym0iw2isr/)
 
-Curso que se llevara acabo en la Universidad Nacional Agraria, La Molina (UNALM) con el fin de fortalezer las actividades de investigacion en la Facultad de Agronomia.
+Curso que se llevará acabo en la Universidad Nacional Agraria, La Molina (UNALM) con el fin de fortalezer las actividades de investigación en la Facultad de Agronomía.
 
 
 ## Requisitos para el curso
