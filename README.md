@@ -1,6 +1,6 @@
 # Lenguaje R y Fieldbook : Herramientas para la Investigación Cientifica en Agricultura
 
-[![portada_curso2.png](https://s17.postimg.org/9sqyvezsf/portada_curso2.png)](https://postimg.org/image/ym0iw2isr/)
+[![portada_curso2.png](https://s21.postimg.org/y1vx8hs0n/portada_curso2.png)](https://postimg.org/image/v7srv1pub/)
 
 Curso que se llevará acabo en la Universidad Nacional Agraria, La Molina (UNALM) con el fin de fortalezer las actividades de investigación en la Facultad de Agronomía.
 
