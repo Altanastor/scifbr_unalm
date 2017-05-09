@@ -40,5 +40,3 @@ MSerror<-deviance(modelo)/df #cuadrado medio del error
 tmdbca<- HSD.test(datos[,"REND"], datos[, "GENOTIPO"], DFerror = df, MSerror = MSerror, console=TRUE)
 tmdbca
 
-
-
