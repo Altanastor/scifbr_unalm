@@ -37,7 +37,7 @@ pvalor <- at[1, 5]
 #Parametros del modelo y Comparacion de medias (Tukey)
 df<-df.residual(modelo) #grados de libertad
 MSerror<-deviance(modelo)/df #cuadrado medio del error
-tmdbca<- HSD.test(datos[,"rendimiento"], datos[, "virus"], DFerror = df, MSerror = MSerror, console=TRUE)
+tmdbca<- HSD.test(datos[,"REND"], datos[, "GENOTIPO"], DFerror = df, MSerror = MSerror, console=TRUE)
 tmdbca
 
 
