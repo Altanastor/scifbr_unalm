@@ -37,7 +37,6 @@ install.packages(paquetes,dependencies = TRUE)
 
 ######## Instalar fieldbook
 devtools::install_github("flavjack/fieldbook")
-#library(fieldbook)
 
 
 
