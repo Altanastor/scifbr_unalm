@@ -27,11 +27,11 @@ Después de haber instalador el lenguaje R, entrar al programa y se abrira una v
 
 
 ######### paquetes
-paquetes <- c("broom","leaps", "scatterplot3d", "flashClust", "knitr","klaR",
-  "spedep", "AlgDesign", "DBI", "Rcpp", "assertthat","tibble",
-  "gtable", "scales", "ggrepel", "cellranger", "htmlwidgets",
-  "httpuv", "xtable", "rhansontable", "ggpubr", "htmltools",
-  "ggplot2", "dplyr", "tidyr", "magrittr","agricolae", "devtools")
+paquetes <- c("broom","readxl","leaps", "scatterplot3d",                                        "knitr","klaR","flashClust",
+              "spedep", "AlgDesign", "DBI", "Rcpp", "assertthat","tibble",
+              "gtable", "scales", "ggrepel", "cellranger", "htmlwidgets",
+              "httpuv", "xtable", "rhansontable", "ggpubr", "htmltools",
+              "ggplot2", "dplyr", "tidyr", "magrittr","agricolae", "devtools")
 
 install.packages(paquetes,dependencies = TRUE)
 

@@ -4,7 +4,7 @@
 # abajo en R y presionar ENTER.
 
 
-paquetes <- c("broom","leaps", "scatterplot3d", "flashClust", "knitr","klaR",
+paquetes <- c("broom","readxl", "leaps", "scatterplot3d", "flashClust", "knitr","klaR",
   "spedep", "AlgDesign", "DBI", "Rcpp", "assertthat","tibble",
   "gtable", "scales", "ggrepel", "cellranger", "htmlwidgets",
   "httpuv", "xtable", "rhansontable", "ggpubr", "htmltools",

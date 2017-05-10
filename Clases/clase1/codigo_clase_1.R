@@ -269,8 +269,8 @@ datos_csv <- read.csv(fp)
 fp <- file.choose() 
 
 
-
 ## Obtenemos los sheet u hojas de trabajo del archivo Excel
+library(readxl)
 hojas <- excel_sheets(path = fp)
 
 ## Leemos la hoja que deseamos
@@ -278,7 +278,7 @@ datos <- read_excel(path = fp, sheet = 1)
 
 ## Si sabemos el nombre de la hoja
 #datos <- read_excel(path = fp, sheet =  "Nombre de la Hoja")
-datos <- read_excel(path = fp, sheet =  "Sheet1")
+datos <- read_excel(path = fp, sheet =  "fb")
 
 
 ###Dataset MegaClones
@@ -286,4 +286,38 @@ datos <- read_excel(path = fp, sheet =  "Sheet1")
 #RYTHA: Yield of total roots per hectar computing tons per ha
 #DM   : Storage root dry matter content
 #FYTHA: Foliage total yield 
+
+
+library(dplyr)
+
+#Seleccionar columnas
+s1 <- select(datos, geno)
+s1
+
+s2 <- select(datos, env, geno, rep, rytha)
+s2
+
+#Filtrar datos
+
+f1 <- filter(datos, geno == "Jonathan")
+f1
+
+f2 <- filter(datos, geno == "Jonathan", env == "AD08")
+f2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
