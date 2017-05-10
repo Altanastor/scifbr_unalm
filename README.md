@@ -23,15 +23,15 @@ Link de descarga de los instaladores : https://drive.google.com/drive/u/0/folder
 
 # Lista de paquetes a instalar
 
-Después de haber instalador el lenguaje R, entrar al programa y se abrira una ventana en blanco con un simbolo de menor (>). Ahi copiaras el codigo debajo
+Después de haber instalado el lenguajsoftware R, entrar al programa donde se abrirá una ventana en blanco con un simbolo de menor (>). Luego copiar y pegar el codigo debajo, y finalemente presionar ENTER.
 
 
-######### paquetes
-paquetes <- c("broom","readxl","leaps", "scatterplot3d",                                        "knitr","klaR","flashClust",
+paquetes <- c("broom","readxl","leaps", "scatterplot3d",                                                                    "knitr","klaR","flashClust",
               "spedep", "AlgDesign", "DBI", "Rcpp", "assertthat","tibble",
               "gtable", "scales", "ggrepel", "cellranger", "htmlwidgets",
               "httpuv", "xtable", "rhansontable", "ggpubr", "htmltools",
               "ggplot2", "dplyr", "tidyr", "magrittr","agricolae", "devtools")
+
 
 install.packages(paquetes,dependencies = TRUE)
 
