@@ -7,7 +7,6 @@
 
 library(magrittr)
 library(ggplot2)
-library(ggExtra)
 library(dplyr)
 library(tidyr)
 library(agricolae)
@@ -16,11 +15,11 @@ library(agricolae)
 library(broom)
 
 ## Conventional Way 
-datos <- readRDS("data/yacon_caj.rds")
 yacon_caj1 <- dplyr::filter(datos, locality == "CAJ" & site == 1)
-yacon_f0 <- dplyr::filter(datos, locality == "CAJ" & site == 1, dose=="F0")
-yacon_f80 <- dplyr::filter(datos, locality == "CAJ" & site == 1, dose=="F80")
-yacon_f150 <- dplyr::filter(datos, locality == "CAJ" & site == 1, dose=="F150")
+
+# yacon_f0 <- dplyr::filter(datos, locality == "CAJ" & site == 1, dose=="F0")
+# yacon_f80 <- dplyr::filter(datos, locality == "CAJ" & site == 1, dose=="F80")
+# yacon_f150 <- dplyr::filter(datos, locality == "CAJ" & site == 1, dose=="F150")
 
 # We want to observe what is the correlation between fructose and sucrose
 # Apply the lm to see the linear model and visualiza the correlation and residuals ---------------------
