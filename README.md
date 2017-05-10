@@ -21,13 +21,12 @@ Link de descarga de los instaladores : https://drive.google.com/drive/u/0/folder
 
 ## Instalacion de Paquetes
 
-Para la instalacion de los paquetes especiales, vamos a necesitar de Internet
+# Lista de paquetes a instalar
 
-### Lista de paquetes a instalar
-
-Seleccionar de la linea 6 hasta la linea 17, pegar el codigo (ubicado debajo) en R y presionar ENTER. R automaticamente comenzara instalar los paquetes.
+Después de haber instalador el lenguaje R, entrar al programa y se abrira una ventana en blanco con un simbolo de menor (>). Ahi copiaras el codigo debajo
 
 
+######### paquetes
 paquetes <- c("broom","leaps", "scatterplot3d", "flashClust", "knitr","klaR",
   "spedep", "AlgDesign", "DBI", "Rcpp", "assertthat","tibble",
   "gtable", "scales", "ggrepel", "cellranger", "htmlwidgets",
@@ -36,9 +35,11 @@ paquetes <- c("broom","leaps", "scatterplot3d", "flashClust", "knitr","klaR",
 
 install.packages(paquetes,dependencies = TRUE)
 
-### Instalar fieldbook
+######## Instalar fieldbook
+devtools::install_github("flavjack/fieldbook")
+#library(fieldbook)
 
-devtools::install_github("omarbenites/fieldbook")
+
 
 
 
