@@ -7,7 +7,7 @@ Curso que se llevará acabo en la Universidad Nacional Agraria, La Molina (UNALM
 
 ## Registro del curso
 
-Para registrars en el curso, dar click al link debajo y llenar su información.
+Los participantes delcurso deben registrarse en el link ubicado debajo, para completar la información requerida.
 
 
 https://docs.google.com/spreadsheets/d/1ph1Sz2xQkU0klrAjj9y9OZhR0zW6ScpOVdKCs65O2iM/edit?usp=sharing
