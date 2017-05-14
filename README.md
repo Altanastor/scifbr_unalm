@@ -4,6 +4,14 @@
 
 Curso que se llevará acabo en la Universidad Nacional Agraria, La Molina (UNALM) con el fin de fortalezer las actividades de investigación en la Facultad de Agronomía.
 
+## Diapositivas y Codigos del Curso
+
+En el link debajo, se puede descargar todo el material del curso. Tanto las diapositivas y los codigos en R. 
+
+https://drive.google.com/open?id=0BzBkg4qEJ4RFdUFnOXYxaHpvNWc
+
+
+
 ## Registro del curso
 
 Para registrars en el curso, dar click al link debajo y llenar su información.
@@ -34,8 +42,9 @@ Link de descarga de los instaladores : https://drive.google.com/drive/u/0/folder
 
 Después de haber instalado el lenguajsoftware R, entrar al programa donde se abrirá una ventana en blanco con un simbolo de menor (>). Luego copiar y pegar el codigo debajo, y finalemente presionar ENTER.
 
+```{r eval=F}
 
-paquetes <- c("broom","readxl","leaps", "scatterplot3d",                                                                    "knitr","klaR","flashClust",
+paquetes <- c("broom","readxl","leaps", "scatterplot3d", "cellranger",                         "knitr","klaR","flashClust","shinyBS",
               "spedep", "AlgDesign", "DBI", "Rcpp", "assertthat","tibble",
               "gtable", "scales", "ggrepel", "cellranger", "htmlwidgets",
               "httpuv", "xtable", "rhansontable", "ggpubr", "htmltools",
@@ -44,9 +53,8 @@ paquetes <- c("broom","readxl","leaps", "scatterplot3d",                        
 
 install.packages(paquetes,dependencies = TRUE)
 
-######## Instalar fieldbook
 devtools::install_github("flavjack/fieldbook")
-
+```
 
 
 
