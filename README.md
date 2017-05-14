@@ -4,6 +4,15 @@
 
 Curso que se llevará acabo en la Universidad Nacional Agraria, La Molina (UNALM) con el fin de fortalezer las actividades de investigación en la Facultad de Agronomía.
 
+## Registro del curso
+
+Para registrars en el curso, dar click al link debajo y llenar su información.
+
+
+https://docs.google.com/spreadsheets/d/1ph1Sz2xQkU0klrAjj9y9OZhR0zW6ScpOVdKCs65O2iM/edit?usp=sharing
+
+
+
 
 ## Requisitos para el curso
 
