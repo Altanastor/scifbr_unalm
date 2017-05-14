@@ -4,13 +4,6 @@
 
 Curso que se llevará acabo en la Universidad Nacional Agraria, La Molina (UNALM) con el fin de fortalezer las actividades de investigación en la Facultad de Agronomía.
 
-## Diapositivas y Codigos del Curso
-
-En el link debajo, se puede descargar todo el material del curso. Tanto las diapositivas y los codigos en R. 
-
-https://drive.google.com/open?id=0BzBkg4qEJ4RFdUFnOXYxaHpvNWc
-
-
 
 ## Registro del curso
 
@@ -20,9 +13,7 @@ Para registrars en el curso, dar click al link debajo y llenar su información.
 https://docs.google.com/spreadsheets/d/1ph1Sz2xQkU0klrAjj9y9OZhR0zW6ScpOVdKCs65O2iM/edit?usp=sharing
 
 
-
-
-## Requisitos para el curso
+## Software requerido para el curso
 
 - Instalador de Software R ver. 3.3.1
 - Instalador Rstudio ver. 1.0.143
@@ -33,7 +24,9 @@ Link de descarga de los instaladores : https://drive.google.com/drive/u/0/folder
 ## Material del Curso
 
 - Manual de la Plataforma Fieldbook: http://www.quipo.org/fieldbook.html
-- Diapositivas del curso: 
+- Diapositivas del curso: Descargarlo en el link debajo,
+
+https://drive.google.com/open?id=0BzBkg4qEJ4RFdUFnOXYxaHpvNWc
 
 
 ## Instalacion de Paquetes
