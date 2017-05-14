@@ -33,7 +33,7 @@ https://drive.google.com/open?id=0BzBkg4qEJ4RFdUFnOXYxaHpvNWc
 
 # Lista de paquetes a instalar
 
-Después de haber instalado el lenguajsoftware R, entrar al programa donde se abrirá una ventana en blanco con un simbolo de menor (>). Luego copiar y pegar el codigo debajo, y finalemente presionar ENTER.
+Después de haber instalado el lenguaje/software R, entrar al programa el cual abrirá una ventana en blanco con un simbolo de menor (>). Luego copiar y pegar el codigo debajo, y finalemente presionar ENTER.
 
 ```{r eval=F}
 
