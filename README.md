@@ -23,7 +23,6 @@ Link de descarga de los instaladores : https://drive.google.com/drive/u/0/folder
 
 ## Material del Curso
 
-- Manual de la Plataforma Fieldbook: http://www.quipo.org/fieldbook.html
 - Diapositivas del curso: Descargarlo en el link debajo,
 
 https://drive.google.com/open?id=0BzBkg4qEJ4RFdUFnOXYxaHpvNWc
