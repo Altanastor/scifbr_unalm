@@ -37,7 +37,7 @@ Después de haber instalado el lenguaje/software R, entrar al programa el cual a
 ```{r eval=F}
 
 paquetes <- c("broom","readxl","leaps", "scatterplot3d", "cellranger", "knitr","klaR","flashClust","shinyBS",
-"spedep", "AlgDesign", "DBI", "Rcpp", "assertthat","tibble", "gtable", "scales", "ggrepel", "cellranger", "htmlwidgets", "httpuv", "xtable", "rhansontable", "ggpubr", "htmltools", "ggplot2", "dplyr", "tidyr", "magrittr","agricolae", "devtools")
+"spdep", "AlgDesign", "DBI", "Rcpp", "assertthat","tibble", "gtable", "scales", "ggrepel", "cellranger", "htmlwidgets", "httpuv", "xtable", "rhandsontable", "ggpubr", "htmltools", "ggplot2", "dplyr", "tidyr", "magrittr","agricolae", "devtools")
 
 
 install.packages(paquetes,dependencies = TRUE)
